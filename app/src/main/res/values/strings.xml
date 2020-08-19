@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mySQLAppl</string>
+    <string name="login">login</string>
+    <string name="hint_id">ログインIDを入力</string>
+    <string name="hint_password">パスワードを入力</string>
+</resources>
